@@ -62,7 +62,7 @@ Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-print (f"hello world")
+print (f"solenoid lock")
 cd dillinger
 npm i
 node app
